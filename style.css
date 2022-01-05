@@ -1,0 +1,161 @@
+body{
+	background-color: #FEF5ED;
+	font-family: comic;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.wrapper nav{
+	background-color: #C37B89;
+}
+
+
+.wrapper .navbar-brand{
+	font-size: 40px;
+}
+
+@media screen and (min-width: 711px){
+.form-control{
+	font-size: 14px;
+	margin-left: 15px;
+	width: 250px;
+
+}
+}
+ 
+.wrapper .container.collapse navbar-collapse ul li a:hover{
+	background-color: white;
+    color:black;
+    box-shadow: 0 0 10px white;
+}
+
+@media screen and (max-width: 994px){
+.wrapper .container .navbar-nav{
+	text-align: center;
+}
+}
+
+
+.wrapper-carousel .container .carousel-item img{
+	height: 500px;
+	border-radius: 30px;
+}
+
+.wrapper-carousel .container #carouselExampleIndicators{
+	margin-top: 120px;
+}
+
+
+.wrapper-outfit .container .row{
+	margin: 40px 40px 20px 70px;
+}
+
+.wrapper-outfit .container .text{
+	opacity:10%;
+}
+
+.row q{
+	font-size: 15px;
+	margin-top: 25px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.wrapper-outfit .container h2{
+	font-size: 35px;
+	margin: 80px 0px 30px 0px;
+	text-align: center;
+}
+
+
+.wrapper-kategori .container .row{
+	margin: 40px 40px 40px 70px;
+}
+
+.wrapper-kategori .container h2{
+	font-size: 30px;
+	margin: 80px 0px 40px 0px;
+	text-align: center;
+}
+
+.wrapper-kategori .container .col img{
+	width: 100px;
+	height: 100px;
+}
+
+.wrapper-kategori .container .col h4{
+	font-size: 20px;
+}
+
+.wrapper-produk .container h2{
+	font-size: 30px;
+	margin: 80px 0px 30px 0px;
+	text-align: center;
+}
+
+.wrapper-produk .container .row{
+	margin: 40px 40px 40px 75px;
+}
+
+.wrapper-produk .container .card-body .btn{
+	background-color: #FF7878;
+	color: #F8F0DF;
+	height: 40px;
+	width: 225px;
+
+}
+
+.wrapper-kontak{
+	background-color: #C37B89;
+
+}
+
+.wrapper-kontak .container{
+	margin-left: 445px;
+}
+
+
+
+.wrapper-kontak .container .form-label{
+	color: #FFFFFF;
+	margin: 20px 0px 10px 0px;
+}
+
+.wrapper-kontak .container .form-control{
+	width: 400px;
+}
+
+.wrapper-kontak .container .btn{
+	background-color: #ffffff;
+	color: #C37B89;
+	margin: 20px 0px 10px 170px;
+
+}
+
+
+
+.footer {
+ background-color: #C37B89;
+ color: #ffffff;
+ height: 100px;
+ padding: 25px;
+ font-family: comic;
+ text-align: center;
+}
+
+.footer p{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.ikon a{
+    width: 30px;
+    height: 25px;
+    margin: 60px 50px;
+}
+ 
+ .ikon i {
+    color:#FFFFFF;
+}
+
